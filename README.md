@@ -1,4 +1,4 @@
- 리액트, 머테리얼 ui을 이용한 간단한 todo APP 
+ 리액트, 머테리얼 ui을 이용한 간단한 카드식 todo APP 
  
  yarn start
  
